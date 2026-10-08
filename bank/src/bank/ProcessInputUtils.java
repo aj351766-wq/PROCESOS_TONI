@@ -10,7 +10,7 @@ public final class ProcessInputUtils {
 	private static final Scanner SCANNER = new Scanner(System.in);
 
 	// Prevent instantiation
-	private ProcessInputUtils() {
+	 ProcessInputUtils() {
 	}
 
 	// Read operation via menu: returns BankProcess.DEPOSIT or BankProcess.WITHDRAW,
